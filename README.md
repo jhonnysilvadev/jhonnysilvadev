@@ -94,7 +94,7 @@ Foco o meu trabalho em interfaces rápidas, acessíveis e com arquitetura escal�
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=55BCE8)](https://github.com/joaosiilva)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=55BCE8)](https://github.com/jhonnysilvadev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=ED53AA)](https://www.linkedin.com/in/joaosiilva/)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=firefoxbrowser&logoColor=55BCE8)](https://www.jhonnysilva.pt)
 
