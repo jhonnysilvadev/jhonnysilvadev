@@ -85,7 +85,7 @@ Foco o meu trabalho em interfaces rápidas, acessíveis e com arquitetura escal�
 <br/>
 
 <div align="center">
-  <img src="https://github.com/joaosiilva/joaosiilva/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake Animation" width="100%"/>
+  <img src="https://github.com/jhonnysilvadev/jhonnysilvadev/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake Animation" width="100%"/>
 </div>
 
 <br/><br/>
