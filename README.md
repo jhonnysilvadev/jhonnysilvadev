@@ -1,44 +1,88 @@
-# Jhonny Silva
+<div align="center">
 
-Desenvolvedor Front-End Junior
+<br/>
 
----
+# JHONNY SILVA
 
-### Sobre mim
+<sub>FRONT-END DEVELOPER · LISBOA, PT</sub>
 
-Trabalho com desenvolvimento front-end, cuidando tanto do design (Figma) quanto da implementação (HTML, CSS, JavaScript/TypeScript, React). Também uso PHP com Laravel quando o projeto precisa de back-end.
+<br/><br/>
 
----
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&weight=500&size=16&duration=3000&pause=1200&color=FF2E9C&center=true&vCenter=true&width=500&lines=interfaces+limpas%2C+c%C3%B3digo+organizado;Figma+%E2%86%92+React+%E2%86%92+Laravel;sempre+a+aprender+algo+novo" alt="typing" />
 
-### Tecnologias
+</div>
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=laravel&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&logoColor=white)
+<br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px"/>
 
-### Projetos
+<br/>
 
-**[jhonnysilva.pt](https://www.jhonnysilva.pt)**
-Site pessoal / portfólio.
+**Sobre**
 
-**[musicpreview.jhonnysilva.pt](https://musicpreview.jhonnysilva.pt)**
-Projeto pessoal.
+Desenvolvo front-end com atenção ao detalhe — do wireframe no Figma até o componente em produção. Trabalho com HTML, CSS, JavaScript, TypeScript e React no dia a dia, e recorro a PHP/Laravel quando o projeto pede um back-end junto.
 
----
+<br/>
 
-### Contribuições
+**Stack**
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaosiilva&theme=minimal&hide_border=true&hide_title=true)
+<div align="center">
 
----
+`HTML` `CSS` `JavaScript` `TypeScript` `React` `PHP` `Laravel` `Figma`
 
-### Contato
+</div>
 
-[LinkedIn](https://www.linkedin.com/in/joaosiilva/) · [GitHub](https://github.com/joaosiilva)
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px"/>
+
+<br/>
+
+**Projetos**
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**jhonnysilva.pt** ↗
+<br/>
+<sub>site pessoal · portfólio</sub>
+<br/><br/>
+[visitar →](https://www.jhonnysilva.pt)
+
+</td>
+<td width="50%" valign="top">
+
+**musicpreview** ↗
+<br/>
+<sub>jhonnysilva.pt/musicpreview</sub>
+<br/><br/>
+[visitar →](https://musicpreview.jhonnysilva.pt)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/joaosiilva/joaosiilva/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/joaosiilva/) &nbsp;·&nbsp; [GitHub](https://github.com/joaosiilva) &nbsp;·&nbsp; [Site](https://www.jhonnysilva.pt)
+
+<br/><br/>
+
+<sub>Jhonny Silva, 2026</sub>
+
+</div>
