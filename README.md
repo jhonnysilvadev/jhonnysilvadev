@@ -5,7 +5,7 @@
 </div>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&duration=2500&pause=800&color=FFFFFF&center=false&vCenter=true&width=900&height=50&lines=CODE.+DESIGN.+CREATE." alt="headline" />
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&duration=2500&pause=800&color=00D4FF&center=false&vCenter=true&width=500&height=60&lines=%40FRONT_END_DEV_" alt="handle" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&duration=2500&pause=800&color=55BCE8&center=false&vCenter=true&width=500&height=60&lines=%40FRONT_END_DEV_" alt="handle" />
 
 <sub><code>>> DESENVOLVEDOR FRONT-END JUNIOR</code></sub>
 
@@ -26,35 +26,23 @@
 └────────────────────────┘
 </pre>
 
-<pre>
-┌─ FRONT_END ───────────┐
-│                        │
-│  > HTML                │
-│  > CSS                 │
-│  > JAVASCRIPT          │
-│  > TYPESCRIPT          │
-│  > REACT               │
-│                        │
-└────────────────────────┘
-</pre>
+**FRONT_END**
 
-<pre>
-┌─ BACK_END ────────────┐
-│                        │
-│  > PHP                 │
-│  > LARAVEL             │
-│                        │
-└────────────────────────┘
-</pre>
+![HTML](https://img.shields.io/badge/HTML-55BCE8?style=flat-square&logo=html5&logoColor=000)
+![CSS](https://img.shields.io/badge/CSS-55BCE8?style=flat-square&logo=css3&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-55BCE8?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-55BCE8?style=flat-square&logo=typescript&logoColor=000)
+![React](https://img.shields.io/badge/React-55BCE8?style=flat-square&logo=react&logoColor=000)
 
-<pre>
-┌─ SOCIAL_LINKS ────────┐
-│                        │
-│  > GITHUB              │
-│  > LINKEDIN             │
-│                        │
-└────────────────────────┘
-</pre>
+**BACK_END**
+
+![PHP](https://img.shields.io/badge/PHP-ED53AA?style=flat-square&logo=php&logoColor=000)
+![Laravel](https://img.shields.io/badge/Laravel-ED53AA?style=flat-square&logo=laravel&logoColor=000)
+
+**SOCIAL_LINKS**
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=55BCE8)](https://github.com/joaosiilva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=ED53AA)](https://www.linkedin.com/in/joaosiilva/)
 
 </td>
 <td width="70%" valign="top">
@@ -67,12 +55,10 @@
 │  JHONNYSILVA.PT                                 │
 │  Site pessoal / portfólio                       │
 │                                                  │
-│  [ SITE ]                                       │
-│                                                  │
 └────────────────────────────────────────────────┘
 </pre>
 
-[→ visitar jhonnysilva.pt](https://www.jhonnysilva.pt)
+[![Visitar](https://img.shields.io/badge/VISITAR_SITE-55BCE8?style=for-the-badge&logoColor=000)](https://www.jhonnysilva.pt)
 
 <pre>
 ┌────────────────────────────────────────────────┐
@@ -80,12 +66,10 @@
 │  MUSICPREVIEW                                   │
 │  jhonnysilva.pt/musicpreview                    │
 │                                                  │
-│  [ SITE ]                                       │
-│                                                  │
 └────────────────────────────────────────────────┘
 </pre>
 
-[→ visitar musicpreview](https://musicpreview.jhonnysilva.pt)
+[![Visitar](https://img.shields.io/badge/VISITAR_SITE-ED53AA?style=for-the-badge&logoColor=000)](https://musicpreview.jhonnysilva.pt)
 
 <br/>
 
@@ -100,8 +84,6 @@
 <br/>
 
 <div align="center">
-
-[GITHUB](https://github.com/joaosiilva) <code>//</code> [LINKEDIN](https://www.linkedin.com/in/joaosiilva/) <code>//</code> [SITE](https://www.jhonnysilva.pt)
 
 <sub>JHONNY_SILVA © 2026</sub>
 
