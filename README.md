@@ -1,73 +1,41 @@
 <div align="right">
-
-<sub><code>V_1.0 // FRONT_END_DEV</code></sub>
-
+  <code><b>STATUS:</b> <span style="color:#55BCE8;">OPEN_TO_WORK</span> // V_2.0</code>
 </div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=44&duration=2200&pause=900&color=FFFFFF&center=false&vCenter=true&width=950&height=110&lines=CODE.+DESIGN.+CREATE.;%40FRONT_END_DEV_" alt="headline" />
+<div align="center">
 
-<sub><code>>> DESENVOLVEDOR FRONT-END JUNIOR</code></sub>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=38&duration=2400&pause=1000&color=55BCE8&center=true&vCenter=true&width=750&height=90&lines=JHONNY+SILVA;CODE.+DESIGN.+DELIVER.;FRONT-END+DEVELOPER" alt="Typing SVG" />
 
-<br/><br/>
+<p align="center">
+  <sub><code>>> DESENVOLVEDOR FRONT-END // UI-CENTRIC // FIGMA-TO-CODE</code></sub>
+</p>
 
-![](https://img.shields.io/badge/-SOBRE-000000?style=flat-square&labelColor=55BCE8&color=000000)
+<p align="center">
+  <a href="https://www.jhonnysilva.pt">
+    <img src="https://img.shields.io/badge/WEBSITE-jhonnysilva.pt-000000?style=for-the-badge&logo=google-chrome&logoColor=55BCE8&labelColor=111111" />
+  </a>
+  <a href="https://www.linkedin.com/in/joaosiilva/">
+    <img src="https://img.shields.io/badge/LINKEDIN-joaosiilva-000000?style=for-the-badge&logo=linkedin&logoColor=ED53AA&labelColor=111111" />
+  </a>
+</p>
 
-Desenvolvo front-end com atenção ao detalhe — do wireframe no Figma até o componente em produção. Trabalho com HTML, CSS, JavaScript, TypeScript e React no dia a dia, e recorro a PHP/Laravel quando o projeto pede um back-end junto.
+</div>
 
-<br/>
+---
 
-![](https://img.shields.io/badge/-FRONT_END-000000?style=flat-square&labelColor=55BCE8&color=000000)
+### ⚡ <code>// SOBRE</code>
 
-![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=55BCE8)
-![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=55BCE8)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=55BCE8)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=55BCE8)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=55BCE8)
+> *"A atenção ao detalhe é o que separa um protótipo estático de uma experiência interativa memorável."*
 
-![](https://img.shields.io/badge/-BACK_END-000000?style=flat-square&labelColor=ED53AA&color=000000)
-
-![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=ED53AA)
-![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=ED53AA)
-
-<br/>
-
-![](https://img.shields.io/badge/-PROJECTS__LOG-000000?style=flat-square&labelColor=55BCE8&color=000000)
+Desenvolvo interfaces web com rigor técnico, garantindo transições suaves, código limpo e fidelidade absoluta ao design original no **Figma**. O meu foco diário passa pelo ecossistema moderno de JavaScript/TypeScript e React, combinando noções sólidas de ergonomia visual, acessibilidade e performance. Quando a arquitetura exige soluções completas, integro APIs e estruturas de dados recorrendo a **PHP** e **Laravel**.
 
 <br/>
 
-**JHONNYSILVA.PT**
-<br/>
-<sub>site pessoal · portfólio</sub>
-<br/>
-[![Visitar](https://img.shields.io/badge/VISITAR_SITE-55BCE8?style=for-the-badge&logoColor=000000)](https://www.jhonnysilva.pt)
+### 🛠 <code>// TECH_STACK</code>
 
-<br/>
-
-**MUSICPREVIEW**
-<br/>
-<sub>jhonnysilva.pt/musicpreview</sub>
-<br/>
-[![Visitar](https://img.shields.io/badge/VISITAR_SITE-ED53AA?style=for-the-badge&logoColor=000000)](https://musicpreview.jhonnysilva.pt)
-
-<br/><br/>
-
-![](https://img.shields.io/badge/-CONTRIBUTION__GRAPH-000000?style=flat-square&labelColor=ED53AA&color=000000)
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/joaosiilva/joaosiilva/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<br/><br/>
-
-![](https://img.shields.io/badge/-SOCIAL__LINKS-000000?style=flat-square&labelColor=55BCE8&color=000000)
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=55BCE8)](https://github.com/joaosiilva)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=ED53AA)](https://www.linkedin.com/in/joaosiilva/)
-
-<br/><br/>
-
-<sub><code>JHONNY_SILVA © 2026</code></sub>
+```bash
+[FRONT-END] ─────── HTML5 ── CSS3 ── JavaScript ── TypeScript ── React ── TailwindCSS
+[BACK-END]  ─────── PHP ──── Laravel ── REST APIs ── MySQL
+[WORKFLOW]  ─────── Git ──── GitHub ── Figma ───── VS Code
