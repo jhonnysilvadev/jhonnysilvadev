@@ -1,122 +1,93 @@
 <div align="right">
-  <sub><code>SYS_STATUS: ONLINE // FRONT_END_DEV</code></sub>
+  <sub><code>SYS_STATUS: ONLINE&nbsp;&nbsp;//&nbsp;&nbsp;FRONT_END_DEV</code></sub>
 </div>
 
-<br />
+<br><br>
 
 <div align="center">
 
-# Jhonny Silva.
+# Jhonny Silva
 
-### Sites, interfaces e coisas para a web.
+**Code. Design. Create.**
 
-<p>
-  Desenvolvedor front-end com atenção ao detalhe — do wireframe no Figma<br />
-  ao componente responsivo em produção.
-</p>
+Desenvolvedor front-end a criar sites e interfaces<br>
+com atenção ao detalhe e sem complicar o que é simples.
 
-<br />
+<br>
 
-<a href="https://www.jhonnysilva.pt">
-  <img src="https://img.shields.io/badge/VER_PORTFOLIO-6B2737?style=for-the-badge&labelColor=6B2737&color=6B2737" alt="Visitar portfolio" />
-</a>
+<a href="https://www.jhonnysilva.pt">Ver portfolio&nbsp; ↗</a>
 
 </div>
 
-<br /><br />
+<br><br><br>
 
-![](https://img.shields.io/badge/-01__SOBRE-F1EFE9?style=flat-square&labelColor=6B2737&color=F1EFE9)
+---
 
-<br />
+## `01 / Sobre`
 
-Faço sites e interfaces para pessoas com ideias boas e pouco interesse em complicar o que é simples.
+Faço sites e interfaces para pessoas com ideias boas e pouco interesse em
+complicar o que é simples.
 
-Trabalho desde a conceção de wireframes e protótipos de alta fidelidade no **Figma** até à implementação de componentes modulares e responsivos em produção.
+Trabalho desde a conceção de wireframes e protótipos de alta fidelidade no
+**Figma** até à implementação de componentes modulares e responsivos em
+produção.
 
-O meu foco está em interfaces rápidas, acessíveis e pensadas para durar — com design consistente, código compreensível e espaço para evoluir.
+O meu foco está em interfaces rápidas, acessíveis e pensadas para durar —
+com design consistente, código compreensível e espaço para evoluir.
 
-<br />
+<br>
 
-![](https://img.shields.io/badge/-02__STACK-F1EFE9?style=flat-square&labelColor=6B2737&color=F1EFE9)
+## `02 / Stack`
 
-<br />
+| Core / Front-end | API / Back-end | Tools / Workflow |
+| :--- | :--- | :--- |
+| HTML5 | PHP 8+ | Git |
+| CSS3 / SCSS | Laravel | GitHub |
+| JavaScript ES6+ | MySQL | Figma |
+| TypeScript |  | VS Code |
+| React |  |  |
+| Tailwind CSS |  |  |
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>CORE / FRONT-END</strong>
-      <br /><br />
-      HTML5<br />
-      CSS3 / SCSS<br />
-      JavaScript ES6+<br />
-      TypeScript<br />
-      React<br />
-      Tailwind CSS
-    </td>
-    <td width="33%" valign="top">
-      <strong>API / BACK-END</strong>
-      <br /><br />
-      PHP 8+<br />
-      Laravel<br />
-      MySQL
-    </td>
-    <td width="33%" valign="top">
-      <strong>TOOLS / WORKFLOW</strong>
-      <br /><br />
-      Git<br />
-      GitHub<br />
-      Figma<br />
-      VS Code
-    </td>
-  </tr>
-</table>
+<br>
 
-<br />
+## `03 / Projetos`
 
-![](https://img.shields.io/badge/-03__PROJECTS-F1EFE9?style=flat-square&labelColor=6B2737&color=F1EFE9)
+### 01 — [JHONNYSILVA.PT](https://www.jhonnysilva.pt)
 
-<br />
+**Portfólio digital · Laboratório pessoal**
 
-### `01 / JHONNYSILVA.PT`
+Identidade visual, tipografia e uma experiência responsiva para juntar trabalho,
+experiências e ideias.
 
-**Portfólio digital / Laboratório pessoal**
+[Abrir projeto ↗](https://www.jhonnysilva.pt)
 
-Identidade visual, tipografia e uma experiência responsiva para juntar trabalho, experiências e ideias.
+<br>
 
-<a href="https://www.jhonnysilva.pt">Abrir projeto ↗</a>
+### 02 — [MUSICPREVIEW](https://musicpreview.jhonnysilva.pt)
 
-<br /><br />
+**Web application · Áudio & interatividade**
 
-### `02 / MUSICPREVIEW`
+Uma experiência para explorar áudio, controlos de reprodução e componentes com
+transições fluidas.
 
-**Web application / Áudio & interatividade**
+[Abrir projeto ↗](https://musicpreview.jhonnysilva.pt)
 
-Uma experiência para explorar áudio, controlos de reprodução e componentes com transições fluidas.
+<br>
 
-<a href="https://musicpreview.jhonnysilva.pt">Abrir projeto ↗</a>
-
-<br />
-
-![](https://img.shields.io/badge/-04__CONTACTO-F1EFE9?style=flat-square&labelColor=6B2737&color=F1EFE9)
-
-<br />
+## `04 / Contacto`
 
 Se tens um projeto, uma pergunta ou apenas queres trocar umas ideias:
 
-<br />
+### [contacto@jhonnysilva.pt](mailto:contacto@jhonnysilva.pt)
 
-<a href="mailto:contacto@jhonnysilva.pt">contacto@jhonnysilva.pt ↗</a>
+<br>
 
-<br /><br />
+[GitHub](https://github.com/jhonnysilvadev)&nbsp;&nbsp;·&nbsp;&nbsp;
+[LinkedIn](https://www.linkedin.com/in/joaosiilva/)&nbsp;&nbsp;·&nbsp;&nbsp;
+[Website](https://www.jhonnysilva.pt)
 
-<a href="https://github.com/jhonnysilvadev">GitHub ↗</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/joaosiilva/">LinkedIn ↗</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.jhonnysilva.pt">Website ↗</a>
-
-<br /><br /><br />
+<br><br><br>
 
 <div align="center">
-  <sub><code>JHONNY SILVA // EST. 2026 // FEITO COM CALMA.</code></sub>
+  <sub><code>JHONNY SILVA&nbsp;&nbsp;//&nbsp;&nbsp;EST. 2026&nbsp;&nbsp;//&nbsp;&nbsp;FEITO COM CALMA.</code></sub>
 </div>
