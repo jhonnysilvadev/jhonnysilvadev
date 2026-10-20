@@ -6,9 +6,11 @@
 
 <div align="center">
 
-# <span style="color:#6B2737">Jhonny Silva</span>
+# Jhonny Silva
 
-<strong><span style="color:#6B2737">CODE.</span> <span style="color:#756B78">DESIGN.</span> <span style="color:#6B2737">CREATE.</span></strong>
+![CODE](https://img.shields.io/badge/CODE.-6B2737?style=flat-square&labelColor=6B2737&color=6B2737)
+![DESIGN](https://img.shields.io/badge/DESIGN.-756B78?style=flat-square&labelColor=756B78&color=756B78)
+![CREATE](https://img.shields.io/badge/CREATE.-6B2737?style=flat-square&labelColor=6B2737&color=6B2737)
 
 Desenvolvedor front-end a criar sites e interfaces<br>
 com atenção ao detalhe e sem complicar o que é simples.
@@ -41,20 +43,20 @@ com design consistente, código compreensível e espaço para evoluir.
 
 <table>
   <tr>
-    <td width="33%" valign="top" bgcolor="#F1E6E8">
-      <strong><span style="color:#6B2737">CORE / FRONT-END</span></strong><br><br>
+    <td width="33%" valign="top">
+      <strong>🟥 CORE / FRONT-END</strong><br><br>
       HTML5 · CSS3 / SCSS<br>
       JavaScript ES6+ · TypeScript<br>
       React · Tailwind CSS
     </td>
-    <td width="33%" valign="top" bgcolor="#E8E4EA">
-      <strong><span style="color:#756B78">API / BACK-END</span></strong><br><br>
+    <td width="33%" valign="top">
+      <strong>🟪 API / BACK-END</strong><br><br>
       PHP 8+<br>
       Laravel<br>
       MySQL
     </td>
-    <td width="33%" valign="top" bgcolor="#E9E8E2">
-      <strong><span style="color:#4D5950">TOOLS / WORKFLOW</span></strong><br><br>
+    <td width="33%" valign="top">
+      <strong>🟩 TOOLS / WORKFLOW</strong><br><br>
       Git · GitHub<br>
       Figma<br>
       VS Code
@@ -66,7 +68,7 @@ com design consistente, código compreensível e espaço para evoluir.
 
 <h2><code>03 / PROJETOS</code></h2>
 
-### <span style="color:#6B2737">01 — [JHONNYSILVA.PT](https://www.jhonnysilva.pt)</span>
+### 🟥 01 — [JHONNYSILVA.PT](https://www.jhonnysilva.pt)
 
 <strong>Portfólio digital · Laboratório pessoal</strong>
 
@@ -77,7 +79,7 @@ experiências e ideias.
 
 <br>
 
-### <span style="color:#756B78">02 — [MUSICPREVIEW](https://musicpreview.jhonnysilva.pt)</span>
+### 🟪 02 — [MUSICPREVIEW](https://musicpreview.jhonnysilva.pt)
 
 <strong>Web application · Áudio & interatividade</strong>
 
@@ -92,7 +94,7 @@ transições fluidas.
 
 Se tens um projeto, uma pergunta ou apenas queres trocar umas ideias:
 
-### <a href="mailto:contacto@jhonnysilva.pt"><span style="color:#6B2737">contacto@jhonnysilva.pt&nbsp; ↗</span></a>
+### 🟥 <a href="mailto:contacto@jhonnysilva.pt">contacto@jhonnysilva.pt&nbsp; ↗</a>
 
 <br>
 
